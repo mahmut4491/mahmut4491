@@ -25,8 +25,8 @@
 - 💻 **Odak:** C#, Python ve SQL ile gerçek hayat problemleri için çözümler  
 - 🤖 **Botlar:** TR/AR destekli Telegram botları geliştirme  
 - 🌾 **İlgi Alanı:** Akıllı tarım ve otomasyon sistemleri  
-- 📚 **Hobi:** İslami ilimler (tecvid, siyer, fıkıh) araştırmaları  
-- 🎯 **Hedef:** Mezuniyetten sonra Suriye’de teknoloji alanında değer üretmek  
+- 📚 **Hobi:** Fotoğrafçılık & Tasarım ,  Film Yapımı & Video Edit, Balıkçılık
+- 🎯 **Hedef:**Kendi yazılım ofisimi kurmak veya büyük ölçekli endüstriyel otomasyon sistemleri geliştirmek.
 
 ---
 
