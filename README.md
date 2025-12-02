@@ -87,7 +87,6 @@
 - 🎮 6 kişilik oyun ekibiyle rekabetçi oyunlar  
 - 🎥 Kısa film ve video edit projeleri  
 - 📷 Fotoğraf düzenleme ve tasarım  
-- 📚 İslami ilimler okumaları  
 - 🌌 Uzay ve donanım teknolojilerini takip etmek  
 
 ---
