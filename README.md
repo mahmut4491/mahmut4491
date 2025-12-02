@@ -1,16 +1,109 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/mahmut4491.png" width="150" style="border-radius:50%;" />
+</div>
 
-<!--
-**mahmut4491/mahmut4491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Selam, Ben Mahmut</h1>
+<h3 align="center">"GELECEĞİ KODLUYORUM"</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Bursa’da yaşayan, teknoloji tutkunu bir lise öğrencisi, yazılım geliştirici ve IoT meraklısıyım.  
+  C#, Python ve SQL ile otomasyon, masaüstü uygulamaları, tarım teknolojileri ve Telegram botları geliştiriyorum.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&pause=1500&size=22&width=700&lines=Yazılım+Geliştirici;C%23,+Python,+SQL;IoT+ve+Otomasyon+Meraklısı;Telegram+Bot+Geliştiricisi;GELECEĞİ+KODLUYORUM">
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Kısaca Ben
+
+- 📍 **Konum:** Bursa, Türkiye  
+- 🏫 **Eğitim:** Tophane MTAL - Bilişim Teknolojileri  
+- 💻 **Odak:** C#, Python ve SQL ile gerçek hayat problemleri için çözümler  
+- 🤖 **Botlar:** TR/AR destekli Telegram botları geliştirme  
+- 🌾 **İlgi Alanı:** Akıllı tarım ve otomasyon sistemleri  
+- 📚 **Hobi:** İslami ilimler (tecvid, siyer, fıkıh) araştırmaları  
+- 🎯 **Hedef:** Mezuniyetten sonra Suriye’de teknoloji alanında değer üretmek  
+
+---
+
+## 🧠 Teknolojiler & Araçlar
+
+### 🔹 Diller & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,py,cpp,java" />
+</p>
+
+### 🔹 Veritabanı & Veri İşleme
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🔹 Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+### 🔹 Araçlar & Platformlar
+<p>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,arduino,linux,postman" />
+</p>
+
+---
+
+## 💼 Öne Çıkan Projeler
+
+- 🧬 **Yüz Tanıma Sistemi** – Python + OpenCV ile gerçek zamanlı yüz tespiti  
+- 🌾 **Akıllı Çiftlik Otomasyonu** – IoT + C# + Python + SQL ile sensör tabanlı tarım otomasyonu  
+- 🧰 **Müşteri Servis Takip Sistemi** – C# + SQL ile teknik servis/cihaz takibi  
+- 🎟 **Sinema Bilet Sistemi** – C# Forms ile koltuk seçmeli bilet otomasyonu  
+- 🤖 **Telegram Asistan Botu** – Python ile komut tabanlı çok dilli bot  
+- 📦 **Stok & Ürün Takip** – Admin/kullanıcı girişli, açık–koyu temalı stok yöneticisi  
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmut4491&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahmut4491&theme=tokyonight&hide_border=true" height="160" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmut4491&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmut4491&theme=onedark&row=1&column=6&no-frame=true" />
+</div>
+
+---
+
+## 🎮 Kodun Ötesinde
+
+- 🎮 6 kişilik oyun ekibiyle rekabetçi oyunlar  
+- 🎥 Kısa film ve video edit projeleri  
+- 📷 Fotoğraf düzenleme ve tasarım  
+- 📚 İslami ilimler okumaları  
+- 🌌 Uzay ve donanım teknolojilerini takip etmek  
+
+---
+
+## 📫 İletişim
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmutamahmalata@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmut-mahmalat-9980ba39b)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmut4491)
+
+</div>
+
+---
+
+<p align="center">
+  <b>"GELECEĞİ KODLUYORUM"</b>
+</p>
