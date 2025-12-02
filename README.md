@@ -26,7 +26,7 @@
 - 🤖 **Botlar:** TR/AR destekli Telegram botları geliştirme  
 - 🌾 **İlgi Alanı:** Akıllı tarım ve otomasyon sistemleri  
 - 📚 **Hobi:** Fotoğrafçılık & Tasarım ,  Film Yapımı & Video Edit, Balıkçılık
-- 🎯 **Hedef:**Kendi yazılım ofisimi kurmak veya büyük ölçekli endüstriyel otomasyon sistemleri geliştirmek.
+- 🎯 **Hedef:** Kendi yazılım ofisimi kurmak veya büyük ölçekli endüstriyel otomasyon sistemleri geliştirmek.
 
 ---
 
