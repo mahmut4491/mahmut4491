@@ -67,18 +67,15 @@
 
 ## 📊 GitHub İstatistikleri
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmut4491&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahmut4491&theme=tokyonight&hide_border=true" height="160" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmut4491&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmut4491&theme=onedark&row=1&column=6&no-frame=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmut4491&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmut4491&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmut4491&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
 
 ---
 
