@@ -64,23 +64,20 @@
 - 📦 **Stok & Ürün Takip** – Admin/kullanıcı girişli, açık–koyu temalı stok yöneticisi  
 
 ---
-
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahmut4491/mahmut4491/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmut4491&theme=tokyonight" alt="profile-details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahmut4491&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmut4491&theme=tokyonight" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmut4491&theme=tokyonight&utcOffset=3" alt="productive-time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmut4491&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmut4491&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmut4491&theme=tokyonight" alt="repos-per-language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmut4491&theme=tokyonight" alt="most-commit-language" />
 </p>
 
 
